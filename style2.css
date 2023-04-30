@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+}
+#birincibasliq{
+    padding-top: 33px;
+    padding-bottom: 49px;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    color: white;
+    background-color: #109E97;
+}
+#Sekil {
+   position: absolute;
+   top: 234px;
+   left: 370px;
+}
+#Sekil1 {
+    width: 300px;
+    height: 450px;
+}
+#David{
+    position: absolute;
+    top: 234px;
+    left: 750px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+}
+#Pul{
+    position: absolute;
+    left: 752px;
+    top: 276px;
+    font-size: 25px;
+    color: #008000;
+    font-family: 'Roboto', sans-serif;
+}
+#Pul2{
+
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+
+    color: #FF0000;
+}
+#mezmun{
+    border: solid 2px #B0E9B0;
+    width: 718px;
+    height: 266px;
+    margin-bottom: 2px;
+    margin-left: 750px;
+    margin-top: 286px;
+}
+#qisa{
+    margin-left: 1px;
+    margin-top: 2px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+#metn{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 15px;
+}
+input{
+    color: #008000;
+}
+#ikincibasliq{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-top: 101px;
+    text-align: center;
+}
+#border{
+    border-top-style: solid 5px #808080;
+    width: 1182px;
+    margin: auto;
+}
+#Sekil3{
+    width: 300px;
+    height: 455px;
+    margin-right: 377px;
+}
+#Sekil2{
+    margin-left: 370px;
+    width: 300px;
+    height: 455px;
+}
+.container{
+        display: flex;
+        justify-content: space-between;
+}
